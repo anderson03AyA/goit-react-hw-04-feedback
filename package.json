@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://anderson03AyA.github.io/goit-react-hw-04-feedbacks",
+  "homepage": "https://anderson03AyA.github.io/goit-react-hw-04-feedback",
   "scripts": {
     "dev": "vite",
     "start": "react-scripts start",
